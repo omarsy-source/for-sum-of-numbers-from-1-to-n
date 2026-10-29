@@ -1,6 +1,6 @@
 # Number Sequence
 
-> **Exercises have moved:** New Java exercises are maintained in [Java Fundamentals](https://github.com/omarsy-source/Java-Loop). This repository remains as a historical reference.
+> **Consolidated collection:** Java, SQL, and Python exercises are now organized in [Programming Exercises](https://github.com/omarsy-source/programming-exercises). This repository preserves its earlier source and history.
 
 
 A small Java console exercise that reads an integer and prints the numbers from 1 up to that integer using a `for` loop.
