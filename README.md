@@ -1,5 +1,8 @@
 # Number Sequence
 
+> **Exercises have moved:** New Java exercises are maintained in [Java Fundamentals](https://github.com/omarsy-source/Java-Loop). This repository remains as a historical reference.
+
+
 A small Java console exercise that reads an integer and prints the numbers from 1 up to that integer using a `for` loop.
 
 ## Current behavior
